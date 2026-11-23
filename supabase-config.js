@@ -1,0 +1,1 @@
+window.RAYMO_SUPABASE_URL="https://njfzfmbtmyljxvdgayig.supabase.co";window.RAYMO_SUPABASE_KEY="sb_publishable_9XL5p76IBhIKTG9MwvIJsw_kek9D-8S";
